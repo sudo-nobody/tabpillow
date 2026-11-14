@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security report
+    url: mailto:privacy@gettabpillow.fun
+    about: Please report vulnerabilities privately by email.
+  - name: Website and help
+    url: https://gettabpillow.fun/en/help/
+    about: Installation, settings and troubleshooting.
