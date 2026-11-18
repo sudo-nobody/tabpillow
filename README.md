@@ -66,6 +66,13 @@ Read [docs/privacy.md](docs/privacy.md) and [docs/permissions.md](docs/permissio
 - [Changelog](docs/changelog.md)
 - [FAQ](docs/faq.md)
 
+## Guides
+
+- [Chrome Memory Saver not working](https://gettabpillow.fun/blog/en/memory-saver-fix.html)
+- [Tab suspender for Chrome](https://gettabpillow.fun/blog/en/suspend-tabs.html)
+- [The Great Suspender alternative](https://gettabpillow.fun/blog/en/great-suspender-alternatives.html)
+- [How to save tabs in Chrome](https://gettabpillow.fun/blog/en/save-tabs.html)
+
 More on the website: [gettabpillow.fun](https://gettabpillow.fun/) ·
 [blog](https://gettabpillow.fun/blog/en/) · [demo videos](https://gettabpillow.fun/video/en/) ·
 [donate](https://gettabpillow.fun/en/donate.html).
